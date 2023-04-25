@@ -10,3 +10,5 @@ dataset[['columna1', 'columna2']] = scaler.fit_transform(dataset[['columna1', 'c
 
 # imprimir el conjunto de datos
 print(dataset.head())
+
+
